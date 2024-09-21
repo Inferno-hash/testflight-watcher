@@ -7,7 +7,7 @@ import sys
 
 
 CHAT_ID = ""
-BOT_TOKEN = ""
+BOT_TOKEN = "7676576295:AAGPl-FLElHi4PVENfotzFsPV2-BYpJrECA"
 BOT_URL = "https://api.telegram.org/bot{}/sendMessage".format(BOT_TOKEN)
 MSG_NO_FULL = "TestFlight slots for <b>{}</b> beta are now available! \
 <a href='{}'>Download now</a>"
